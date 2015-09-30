@@ -246,16 +246,17 @@
 					<string>.*/system/libxpc.dylib.*</string>
 					<string>.*/CoreServices/Encodings.*</string>
 					<string>.*/lib/libtidy.A.dylib.*</string>
-					<string>.*/IMCore.framework</string>
+					<string>.*/IMCore.framework.*</string>
 				</array>
 				<key>Essentials</key>
 				<array>
+					<string>.*/Kernels/kernel.*</string>
 					<string>.*/OpenGL.framework/module.map.*</string>
 					<string>.*/BridgeSupport/OpenGL.bridgesupport.*</string>
 					<string>.*/groups/_cvms.*</string>
 					<string>.*/LaunchDaemons/com.apple.cvms.*</string>
 					<string>.*/libexec/security_authtrampoline.*</string>
-					<string>.*/IMCore.framework</string>
+					<string>.*/IMCore.framework.*</string>
 					<string>.*/PrivateFrameworks/HelpData.framework.*</string>
 					<string>.*/PrivateFrameworks/XprotectFramework.framework.*</string>
 					<string>.*/PrivateFrameworks/UniversalAccess.framework.*</string>
