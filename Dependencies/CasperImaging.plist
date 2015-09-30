@@ -247,9 +247,21 @@
 					<string>.*/CoreServices/Encodings.*</string>
 					<string>.*/lib/libtidy.A.dylib.*</string>
 					<string>.*/IMCore.framework.*</string>
+					<string>.*/PrivateFrameworks/IMFoundation.framework.*</string>
+					<string>.*/PrivateFrameworks/Marco.framework.*</string>
+					<string>.*/PrivateFrameworks/FTServices.framework.*</string>
+					<string>.*/PrivateFrameworks/IDS.framework.*</string>
+					<string>.*/PrivateFrameworks/IDSFoundation.framework.*</string>
+					<string>.*/PrivateFrameworks/DiagnosticLogCollection.framework.*</string>
 				</array>
 				<key>Essentials</key>
 				<array>
+					<string>.*/PrivateFrameworks/IDSFoundation.framework.*</string>
+					<string>.*/PrivateFrameworks/DiagnosticLogCollection.framework.*</string>
+					<string>.*/PrivateFrameworks/IMFoundation.framework.*</string>
+					<string>.*/PrivateFrameworks/Marco.framework.*</string>
+					<string>.*/PrivateFrameworks/FTServices.framework.*</string>
+					<string>.*/PrivateFrameworks/IDS.framework.*</string>
 					<string>.*/Kernels/kernel.*</string>
 					<string>.*/OpenGL.framework/module.map.*</string>
 					<string>.*/BridgeSupport/OpenGL.bridgesupport.*</string>
