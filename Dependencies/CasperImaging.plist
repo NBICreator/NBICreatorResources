@@ -248,6 +248,10 @@
 				</array>
 				<key>Essentials</key>
 				<array>
+					<string>.*/PrivateFrameworks/HelpData.framework.*</string>
+					<string>.*/PrivateFrameworks/XprotectFramework.framework.*</string>
+					<string>.*/PrivateFrameworks/UniversalAccess.framework.*</string>
+					<string>.*/PrivateFrameworks/XQuery.framework.*</string>
 					<string>.*/Colors/System.clr.*</string>
 					<string>.*/CoreServices/RawCamera.bundle.*</string>
 					<string>.*/System/Library/Fonts/HelveticaNeue.dfont.*</string>
