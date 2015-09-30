@@ -245,9 +245,17 @@
 					<string>.*/system/libunwind.dylib.*</string>
 					<string>.*/system/libxpc.dylib.*</string>
 					<string>.*/CoreServices/Encodings.*</string>
+					<string>.*/lib/libtidy.A.dylib.*</string>
+					<string>.*/IMCore.framework</string>
 				</array>
 				<key>Essentials</key>
 				<array>
+					<string>.*/OpenGL.framework/module.map.*</string>
+					<string>.*/BridgeSupport/OpenGL.bridgesupport.*</string>
+					<string>.*/groups/_cvms.*</string>
+					<string>.*/LaunchDaemons/com.apple.cvms.*</string>
+					<string>.*/libexec/security_authtrampoline.*</string>
+					<string>.*/IMCore.framework</string>
 					<string>.*/PrivateFrameworks/HelpData.framework.*</string>
 					<string>.*/PrivateFrameworks/XprotectFramework.framework.*</string>
 					<string>.*/PrivateFrameworks/UniversalAccess.framework.*</string>
@@ -345,6 +353,7 @@
 					<string>.*/Frameworks/OpenCL.framework.*</string>
 					<string>.*/Frameworks/OpenDirectory.framework.*</string>
 					<string>.*/Frameworks/CFOpenDirectory.framework.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/CVMCompiler.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libGL.dylib.*</string>
