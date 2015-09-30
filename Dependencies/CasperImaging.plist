@@ -244,13 +244,19 @@
 					<string>.*/system/libunc.dylib.*</string>
 					<string>.*/system/libunwind.dylib.*</string>
 					<string>.*/system/libxpc.dylib.*</string>
+					<string>.*/CoreServices/Encodings.*</string>
 				</array>
 				<key>Essentials</key>
 				<array>
 					<string>.*/Colors/System.clr.*</string>
+					<string>.*/CoreServices/RawCamera.bundle.*</string>
 					<string>.*/System/Library/Fonts/HelveticaNeue.dfont.*</string>
+					<string>.*/System/Library/Fonts/HelveticaNeueDeskInterface.ttc.*</string>
+					<string>.*/System/Library/Fonts/Keyboard.ttf.*</string>
+					<string>.*/System/Library/Fonts/Geneva.dfont.*</string>
 					<string>.*/System/Library/Fonts/LucidaGrande.ttc.*</string>
-					<string>.*System/Library/QuickTime.*</string>
+					<string>.*/Fonts/Arial.ttf.*</string>
+					<string>.*/Library/QuickTime.*</string>
 					<string>.*/[Aa]pple[Ss]cript.*</string>
 					<string>.*appleevents.*</string>
 					<string>.*/sdef.dtd.*</string>
@@ -263,6 +269,7 @@
 					<string>.*nsurlsessiond.*</string>
 					<string>.*systemkeychain.*</string>
 					<string>.*/MacOS/libclh.dylib.*</string>
+					<string>.*/Components/IOQTComponents.component.*</string>
 					<string>.*/Frameworks/AGL.framework.*</string>
 					<string>.*/Frameworks/AVFoundation.framework.*</string>
 					<string>.*/Frameworks/Accelerate.framework.*</string>
@@ -393,6 +400,7 @@
 					<string>.*/PrivateFrameworks/EFILogin.framework.*</string>
 					<string>.*/PrivateFrameworks/FaceCore.framework.*</string>
 					<string>.*/PrivateFrameworks/FindMyDevice.framework.*</string>
+					<string>.*/PrivateFrameworks/GLUT.framework.*</string>
 					<string>.*/PrivateFrameworks/GPUSupport.framework.*</string>
 					<string>.*/PrivateFrameworks/GenerationalStorage.framework.*</string>
 					<string>.*/PrivateFrameworks/Heimdal.framework.*</string>
