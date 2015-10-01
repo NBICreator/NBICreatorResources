@@ -81,6 +81,11 @@
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libGLU.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libLLVMContainer.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/OpenGL.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/CVMServer.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/DumpGPURestart.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/ReportGPURestart.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/Legacy.*</string>
+					<string>.*/OpenGL.framework/module.map.*</string>
 					<string>.*/Frameworks/QTKit.framework.*</string>
 					<string>.*/Frameworks/Quartz.framework.*</string>
 					<string>.*/Frameworks/ImageKit.framework.*</string>
@@ -263,7 +268,6 @@
 					<string>.*/PrivateFrameworks/FTServices.framework.*</string>
 					<string>.*/PrivateFrameworks/IDS.framework.*</string>
 					<string>.*/Kernels/kernel.*</string>
-					<string>.*/OpenGL.framework/module.map.*</string>
 					<string>.*/BridgeSupport/OpenGL.bridgesupport.*</string>
 					<string>.*/groups/_cvms.*</string>
 					<string>.*/LaunchAgents/com.apple.cvms.*</string>
@@ -367,7 +371,6 @@
 					<string>.*/Frameworks/OpenCL.framework.*</string>
 					<string>.*/Frameworks/OpenDirectory.framework.*</string>
 					<string>.*/Frameworks/CFOpenDirectory.framework.*</string>
-					<string>.*/OpenGL.framework/Versions/A/Libraries/CVMCompiler.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libGL.dylib.*</string>
@@ -376,6 +379,11 @@
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libGLU.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/Libraries/libLLVMContainer.dylib.*</string>
 					<string>.*/OpenGL.framework/Versions/A/OpenGL.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/CVMServer.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/DumpGPURestart.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/ReportGPURestart.*</string>
+					<string>.*/OpenGL.framework/Versions/A/Libraries/Legacy.*</string>
+					<string>.*/OpenGL.framework/module.map.*</string>
 					<string>.*/Frameworks/QTKit.framework.*</string>
 					<string>.*/Frameworks/Quartz.framework.*</string>
 					<string>.*/Frameworks/ImageKit.framework.*</string>
