@@ -8,6 +8,9 @@
 			<dict>
 				<key>Essentials</key>
 				<array>
+					<string>.*/Extensions/AppleIntelHDGraphics.kext.*</string>
+					<string>.*/Extensions/AppleIntelHDGraphicsGA.plugin.*</string>
+					<string>.*/Extensions/AppleIntelHDGraphicsVADriver.bundle.*</string>
 					<string>.*dyld.*</string>
 					<string>.*/CoreServices/Encodings.*</string>
 					<string>.*/lib/libtidy.A.dylib.*</string>
