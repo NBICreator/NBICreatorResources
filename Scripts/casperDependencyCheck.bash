@@ -1,6 +1,6 @@
 #!/bin/bash
 
-checkCommand="/Users/erikberglund/GitHub/Scripts/sharedLibraryDependencyChecker.bash"
+checkCommand="/Users/erikberglund/GitHub/Scripts/Tools/sharedLibraryDependencyChecker.bash"
 casperImaging="/Users/erikberglund/Desktop/Casper/CINew/Casper Imaging.app"
 
 "${checkCommand}"	-t "${casperImaging}"\
@@ -13,9 +13,9 @@ casperImaging="/Users/erikberglund/Desktop/Casper/CINew/Casper Imaging.app"
 					-t "/System/Library/Frameworks/OpenCL.framework/Versions/A/Libraries/libcldcpuengine.dylib"\
 					-t "/System/Library/PrivateFrameworks/AppleGVA.framework/Versions/A/AppleGVA"\
 					-t "/System/Library/QuickTime/QuickTimeComponents.component/Contents/MacOS/QuickTimeComponents"\
+					-t "/usr/bin/expect"\
 					-e ".*OpenGL.*"\
 					-i ".*libCoreVMClient.dylib$"\
 					-a\
 					-X
-
 exit 0

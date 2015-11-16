@@ -300,6 +300,8 @@
 					<string>.*/system/libunwind.dylib.*</string>
 					<string>.*/system/libxpc.dylib.*</string>
 					<string>.*/lib/libJAMFCoreCommC.dylib.*</string>
+					<string>.*/Tcl/.*/expect.*</string>
+					<string>.*/Frameworks/Tcl.framework.*</string>
 				</array>
 			</dict>
 		</dict>
@@ -562,6 +564,8 @@
 				</array>
 				<key>Essentials</key>
 				<array>
+					<string>.*/Frameworks/Tcl.framework.*</string>
+					<string>.*/Tcl/.*/expect.*</string>
 					<string>.*/Extensions/AppleIntelBDWGraphicsGLDriver.bundle.*</string>
 					<string>.*/Extensions/AppleIntelBDWGraphics.kext.*</string>
 					<string>.*/Library/TextEncodings/.*</string>
